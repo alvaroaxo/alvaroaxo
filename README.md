@@ -1,4 +1,4 @@
-# Hi, I'm Alvaro Montecinos 👋
+# Hi, I'm Alvaro 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves technology and continuous learning. I enjoy working on both frontend and backend projects, building scalable applications, and exploring new technologies.
 <!--
