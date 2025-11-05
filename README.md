@@ -1,7 +1,7 @@
 # Hi, I'm Alvaro Montecinos 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves technology and continuous learning. I enjoy working on both frontend and backend projects, building scalable applications, and exploring new technologies.
-
+<!--
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3776AB)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves technology an
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=00EC64)
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
-
+-->
 ### 🚀 About Me
 <!--
 - 👨‍💻 **Frontend**: React.js, Angular, Vue.js, Next.js, TailwindCSS
